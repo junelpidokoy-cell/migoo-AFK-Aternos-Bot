@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "migoo-NyZk.aternos.me",
+    "ip": "hagfish.aternos.host:22103",
     "port": 22103,
     "version": "",
     "try-creative": false
